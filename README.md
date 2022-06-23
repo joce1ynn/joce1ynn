@@ -10,7 +10,7 @@ const Wenwen = {
 ```
 
 ## Find me on:
- <a href="https://joce1ynn.github.io/portfolio-React/" target="_blank" rel="noreferrer">
+ <a href="https://joce1ynn.github.io/portfolio-React/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
  </a>
  
