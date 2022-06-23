@@ -4,8 +4,8 @@ const Wenwen = {
   pronouns: "she" | "her",
   languages: [Javascript, HTML, CSS, SAS, R],
   tools: [React, Express, Node, MongoDB, MySQL, Jest, GraphQL],
-  hobbies: ["skiing", "snorkeling", "traveling", "camping"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  background: ["Full Stack Developer", "Data Quality Specialist", "medical student"],
+  hobbies: ["skiing", "snorkeling", "travel", "camping", "photography"]
 }
 ```
 
