@@ -10,16 +10,16 @@ const Wenwen = {
 ```
 
 ## Find me on:
- <a href="https://www.linkedin.com/in/wenwentian/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
- </a>
- 
  <a href="https://joce1ynn.github.io/portfolio-React/" target="_blank">
-   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
  </a>
  
- <a href="wwtian9@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
+ <a href="https://www.linkedin.com/in/wenwentian/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+ </a>
+ 
+ <a href="mailto:wwtian9@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
  </a>
 
 ## My GitHub Stats:
