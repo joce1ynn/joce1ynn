@@ -1,25 +1,18 @@
-### Hi there 👋 I am Wenwen Tian, a full stack developer.
+## Hi there 👋 I am Wenwen Tian
+```javascript
+const Wenwen = {
+  pronouns: "she" | "her",
+  languages: [Javascript, HTML, CSS, SAS, R],
+  tools: [React, Express, Node, MongoDB, MySQL, Jest, GraphQL],
+  hobbies: ["skiing", "snorkeling", "traveling", "camping"],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
+## Find me on:
 
-
-
-### Find me on:
-
-### My GitHub Stats:
-![Wenwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=joce1ynn&theme=nightowl&show_icons=true)
+## My GitHub Stats:
+![Wenwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=joce1ynn&theme=nightowl&show_icons=true) &nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joce1ynn&layout=compact&theme=tokyonight)
 
-<!--
-**joce1ynn/joce1ynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
