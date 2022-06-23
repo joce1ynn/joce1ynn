@@ -5,7 +5,7 @@ const Wenwen = {
   languages: [Javascript, HTML, CSS, SAS, R],
   tools: [React, Express, Node, MongoDB, MySQL, Jest, GraphQL],
   background: ["Full Stack Developer", "Data Quality Specialist", "medical student"],
-  hobbies: ["skiing", "snorkeling", "travel", "camping", "photography"]
+  hobbies: ["skiing", "snorkeling", "traveling", "camping", "playing games"]
 }
 ```
 
