@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Wenwen Tian, a full stack developer.
+
+
+
+
+### Find me on:
+
+### My GitHub Stats:
+![Wenwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=joce1ynn&theme=nightowl&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joce1ynn&layout=compact&theme=tokyonight)
 
 <!--
 **joce1ynn/joce1ynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
