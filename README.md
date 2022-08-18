@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Wenwen Tian
 ```javascript
 const Wenwen = {
-  pronouns: "she" | "her",
+  pronouns: "She" | "Her",
   languages: [Javascript, HTML, CSS, SAS, R],
   tools: [React, Express, Node, MongoDB, MySQL, Jest, GraphQL],
   background: ["Full Stack Developer", "Data Quality Specialist", "medical student"],
